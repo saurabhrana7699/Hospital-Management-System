@@ -6,3 +6,12 @@ Key Features:
 Patient Management: Simplify patient registration, appointment scheduling, and medical record management to ensure smooth patient flow and personalized care.
 
 Doctor and Staff Management: Facilitate efficient management of doctors and staff schedules, tasks, and performance to optimize resource allocation and enhance productivity
+
+Technology Used
+JAVA
+JSP
+Spring
+Spring Boot
+Spring data JPA
+Hibernate
+MySQL
