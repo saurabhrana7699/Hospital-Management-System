@@ -25,8 +25,6 @@ Doctor and Staff Management: Facilitate efficient management of doctors and staf
 
 - **JAVA**
 - **JSP**
-- **Spring**
 - **Spring Boot**
 - **Spring data JPA**
-- **Hibernate**
 - **MySQL**
